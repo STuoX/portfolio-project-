@@ -1,5 +1,5 @@
-# Two projects from Kaggle Competition
+ Two projects from Kaggle Competition
 
-# https://www.kaggle.com/c/titanic
+ https://www.kaggle.com/c/titanic
 
-# https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
